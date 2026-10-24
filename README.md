@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**arrycodes07/arrycodes07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Arry 👋
 
-Here are some ideas to get you started:
+### ECE Undergraduate | Exploring Hardware & Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Arif Khan, an Electronics and Communication Engineering undergraduate passionate about technology, programming and building real-world solutions.
+
+Currently strengthening my foundations in Python while exploring Embedded Systems, VLSI and Electronics.
+
+---
+
+### 🚀 Currently Working On
+- Learning Python Programming
+- Exploring Git & GitHub
+- Strengthening core ECE concepts
+- Building my engineering portfolio
+
+### 🛠️ Tech & Interests
+
+**Currently Learning**
+- Python
+- Git & GitHub
+
+**Engineering Interests**
+- Embedded Systems
+- VLSI & Semiconductor Technology
+- Electronics & IoT
+
+### 📈 My Goals
+- Build practical engineering projects
+- Contribute to open-source projects
+- Gain industry experience through internships
+- Keep learning and improving
+
+### 📫 Connect With Me
+
+GitHub: [@arrycodes07](https://github.com/arrycodes07)
+
+---
+
+*Learning by doing. Building one project at a time.*
+
